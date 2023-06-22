@@ -249,23 +249,26 @@
 
   .socials{
     width: 100%;
-    height: 200px;
-    margin-top: 0vh;
+    height: 500px;
+    margin-top: 30vh;
     position: absolute;
     border-radius: 20px;
 }
 .socials img{
     float: center;
-    margin: 1px;
-    margin-right: 25px;
-    margin-top: 10px;
+    margin: 10px;
+    margin-right: 150px;
+    margin-top: 100px;
     cursor: pointer;
-    width: 30px;
-    height: 30px;
-    
+    width: 100px;
+    height: 100px;
+    background-color: #3591ce00;
 }
 .socials button{
     background-color: #00000000;
     border: 1px solid black;
     border-color: #fff;
+}
+.socials a{
+   background-color: #3591ce00;
 }
